@@ -549,7 +549,7 @@ Rigidbody:
   m_GameObject: {fileID: 1569040743}
   serializedVersion: 4
   m_Mass: 10
-  m_Drag: 1
+  m_Drag: 3
   m_AngularDrag: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
   m_InertiaTensor: {x: 1, y: 1, z: 1}
@@ -579,7 +579,7 @@ GameObject:
   - component: {fileID: 1802343947}
   - component: {fileID: 1802343946}
   - component: {fileID: 1802343945}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
